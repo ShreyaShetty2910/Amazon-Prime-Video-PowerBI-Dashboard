@@ -5,6 +5,7 @@ This project presents an interactive Power BI dashboard built using the Amazon P
 # Features
 
 📊 Interactive Power BI Dashboard
+
 📈 KPI Cards (Titles, Ratings, Genres, Directors, Timeline)
 🎬 Movies vs TV Shows Analysis
 🌍 Country-wise Content Distribution

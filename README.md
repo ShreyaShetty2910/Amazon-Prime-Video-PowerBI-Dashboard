@@ -23,10 +23,10 @@ This project presents an interactive Power BI dashboard built using the Amazon P
 
 
 # Tools Used
-Power BI Desktop
-Power Query
-DAX
-CSV Dataset
+* Power BI Desktop
+* Power Query
+* DAX
+* CSV Dataset
 
 
 # Dataset
